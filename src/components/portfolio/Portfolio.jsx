@@ -22,7 +22,7 @@ function Portfolio() {
           <h3>Forum for developper</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/RRamses/gomycode_FinalProject' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href='https://gomycode-final-projectforum.netlify.app/' className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href='https://gomycode-final-projectforum.netlify.app' className='btn btn-primary' target='_blank'>Live demo</a>
           </div>
         </article>
 
@@ -30,10 +30,10 @@ function Portfolio() {
           <div className='portfolio__item-image'>
             <img src={IMG2} alt='' />
           </div>
-            <h3>portfolio title</h3>
+            <h3>Admin Dashboard</h3>
             <div className='portfolio__item-cta'>
-            <a href='https://github.com/RRamses' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href='https://github.com/RRamses/Admin_Dashboard' className='btn' target='_blank'>Github</a>
+            <a href='https://theadmindashboard.netlify.app' className='btn btn-primary' target='_blank'>Live demo</a>
             </div>
         </article>
 
@@ -41,10 +41,10 @@ function Portfolio() {
           <div className='portfolio__item-image'>
             <img src={IMG3} alt='' />
           </div>
-            <h3>portfolio title</h3>
+            <h3>chat App</h3>
             <div className='portfolio__item-cta'>
-            <a href='https://github.com/RRamses' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href='https://github.com/RRamses/My_chat_App' className='btn' target='_blank'>Github</a>
+            <a href='https://cchataapp.netlify.app' className='btn btn-primary' target='_blank'>Live demo</a>
             </div>
         </article>
 

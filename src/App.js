@@ -31,5 +31,5 @@ function App() {
     </>
   );
 }
-/* c C # */
+
 export default App;
