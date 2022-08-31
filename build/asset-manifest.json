@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.0101d8de.css",
-    "main.js": "/static/js/main.ef05e50a.js",
+    "main.js": "/static/js/main.e513b6ce.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/CV_Soga_Raoul patrick.pdf": "/static/media/CV_Soga_Raoul patrick.6abdad0aa0a48e9f8dcc.pdf",
     "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/messengerapp.PNG": "/static/media/messengerapp.0325237f92bc5b3a8710.PNG",
     "static/media/Soga Raoul - Copie.jpg": "/static/media/Soga Raoul - Copie.b84cb4358ce4f8c8d41a.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/raoul.jpeg": "/static/media/raoul.c4cdecc6898d01df3865.jpeg",
     "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/index.html",
     "main.0101d8de.css.map": "/static/css/main.0101d8de.css.map",
-    "main.ef05e50a.js.map": "/static/js/main.ef05e50a.js.map",
+    "main.e513b6ce.js.map": "/static/js/main.e513b6ce.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0101d8de.css",
-    "static/js/main.ef05e50a.js"
+    "static/js/main.e513b6ce.js"
   ]
 }
