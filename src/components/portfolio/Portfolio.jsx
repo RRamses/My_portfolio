@@ -1,9 +1,9 @@
 import React from 'react'
 import './portfolio.css'
 import IMG from '../../assets/forum 2.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG2 from '../../assets/Dashboard.png'
 import IMG3 from '../../assets/messengerapp.PNG'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG4 from '../../assets/hotel.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -52,10 +52,10 @@ function Portfolio() {
           <div className='portfolio__item-image'>
             <img src={IMG4} alt=''  />
           </div>
-            <h3>portfolio title</h3>
+            <h3>Hotel's booking</h3>
             <div className='portfolio__item-cta'>
-            <a href='https://github.com/RRamses' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href='https://github.com/RRamses/hotel-booking-app' className='btn' target='_blank'>Github</a>
+            <a href='https://hotel-bookingg.herokuapp.com/' className='btn btn-primary' target='_blank'>Live demo</a>
             </div>
         </article>
 
