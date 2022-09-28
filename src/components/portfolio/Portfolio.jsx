@@ -22,7 +22,7 @@ function Portfolio() {
           <h3>Forum for developper</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/RRamses/gomycode_FinalProject' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href='https://gomycode-final-projectforum.netlify.app' className='btn btn-primary' target='_blank'>Live demo</a>
+            <a href='https://myforum-web.herokuapp.com/' className='btn btn-primary' target='_blank'>Live demo</a>
           </div>
         </article>
 
